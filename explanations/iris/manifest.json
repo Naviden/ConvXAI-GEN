@@ -1,0 +1,50 @@
+{
+  "random_forest": {
+    "model_hash": "f0ddce5b572f8f3e0c787faeeb02551d013cc341926722b392d022d0477c117a",
+    "data_hash": "600ac44f23c2e6e0ae37daac8ceb2baba4df963efa580eb31b3b576b28e34c55",
+    "explanations": {
+      "lime_global_exp.csv": "eae34f06d94810d1bee7c9ad349c5ff3f581402b0f520bcd38bfb0945aab467b",
+      "lime_local_exp.csv": "41e6e1878fbaa5cafdd77bc28f6684b4d8b4bf46c21f0520c6cea2924bd1ad36",
+      "shap_global_exp.csv": "f3bda802cced475e046190a6b5640610cd8ff71a6997e807db4da93e405a8d5e",
+      "shap_local_exp.csv": "cbc72a17860b9a429fbf483bacf5ce8444cb94473dfc68cac932e8052a8bb28a"
+    },
+    "seed": 42,
+    "test_size": 0.25,
+    "test_instances": 12,
+    "background_size": 20,
+    "shap_samples": 200,
+    "lime_samples": 500,
+    "versions": {
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scikit-learn": "1.9.1",
+      "shap": "0.52.0",
+      "lime": "0.2.0.1",
+      "joblib": "1.6.0"
+    }
+  },
+  "svm": {
+    "model_hash": "5773f7f601c1c0dff2823a0eb3ecf5e04ff45c48f500a5b10c66a64f002c86b2",
+    "data_hash": "600ac44f23c2e6e0ae37daac8ceb2baba4df963efa580eb31b3b576b28e34c55",
+    "explanations": {
+      "lime_global_exp.csv": "f26253c5667e4ea03ae27725c9a7ffdfed397db1565f108a239afbe0a517384e",
+      "lime_local_exp.csv": "b43b2c34113db07cba60ede3bd81ffed7e3cb5f67160ec26381f259c75b79d5e",
+      "shap_global_exp.csv": "4f344dc26e7acedeac73274b03ee105504edde5ec80fe8976ecbeb827ad2c376",
+      "shap_local_exp.csv": "c082e7ade6882b4798d157cca69b2bc219950e1e7686a37766f1c63761d5561a"
+    },
+    "seed": 42,
+    "test_size": 0.25,
+    "test_instances": 12,
+    "background_size": 20,
+    "shap_samples": 200,
+    "lime_samples": 500,
+    "versions": {
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scikit-learn": "1.9.1",
+      "shap": "0.52.0",
+      "lime": "0.2.0.1",
+      "joblib": "1.6.0"
+    }
+  }
+}

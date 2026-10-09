@@ -1,0 +1,13 @@
+SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,target_class,output_scale,Istanza
+-0.0023698018493483425,0.012266746923333379,-0.12029900345498719,-0.021529466481956264,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_0
+-0.0070571404669800475,0.014109068689935764,-0.2310371440987236,-0.18737394149533768,Iris-setosa,local surrogate coefficient (standardised feature),Instance_1
+0.04155023456396231,-0.00403317326300942,0.2790342910317618,0.19318061429938493,Iris-virginica,local surrogate coefficient (standardised feature),Instance_2
+0.018636427877909076,0.00030035794394738094,-0.12492225030452203,-0.055161801283942116,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_3
+-0.024181038698330267,0.02484626314205982,-0.1092055786800162,-0.04895910365783361,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_4
+-0.009753832115690765,0.013842683212198982,-0.21896016708378904,-0.19584917138333538,Iris-setosa,local surrogate coefficient (standardised feature),Instance_5
+0.013090653819230838,-0.011471345725989127,-0.03783763058186206,-0.01543250645419925,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_6
+0.03778554711860793,-0.025635640817084245,0.262037119136137,0.19816848727927514,Iris-virginica,local surrogate coefficient (standardised feature),Instance_7
+-0.021617171460597724,0.005450239101375097,-0.12072624671695736,-0.05814115785952095,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_8
+0.004936766597525976,0.01907838534536217,-0.059865084182357815,-0.014811065645514467,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_9
+0.044853909779346765,-0.02386003100851504,0.27471245342779277,0.18753395974246478,Iris-virginica,local surrogate coefficient (standardised feature),Instance_10
+-0.01199133427524154,0.012530834330001411,-0.24098637834873174,-0.20958846613950954,Iris-setosa,local surrogate coefficient (standardised feature),Instance_11

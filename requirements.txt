@@ -1,0 +1,12 @@
+# Tested direct dependencies (Python 3.12).
+streamlit==1.65.0
+matplotlib==3.11.2
+openai==2.54.0
+gTTS==2.5.4
+pandas==2.2.3
+numpy==2.3.5
+scikit-learn==1.9.1
+xgboost==3.4.1
+shap==0.52.0
+lime==0.2.0.1
+joblib==1.6.0

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "convxai-gen"
+version = "0.2.0"
+description = "Conversational XAI with checked attribution statements"
+requires-python = ">=3.11"
+readme = "README.md"
+license = "MIT"
+authors = [{name = "Chiara Mezzanzanica"}, {name = "Navid Nobani"}]
+dependencies = []
+
+[project.optional-dependencies]
+app = ["streamlit>=1.40,<2", "matplotlib>=3.9,<4", "openai>=1.60,<3", "gTTS>=2.5,<3"]
+experiments = ["pandas>=2.2,<3", "numpy>=1.26,<3", "scikit-learn>=1.5,<2", "xgboost>=2.1,<4", "shap>=0.46,<1", "lime==0.2.0.1", "joblib>=1.4,<2"]
+
+[tool.setuptools]
+packages = ["convxai"]
+py-modules = ["load_data"]

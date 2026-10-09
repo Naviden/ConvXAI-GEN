@@ -1,0 +1,13 @@
+SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,target_class,output_scale,Istanza
+0.05111444248519514,-0.021453676966512628,-0.08433041286491695,-0.09938791288958744,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_0
+-0.12748069091786135,0.11248187356899537,-0.1985788831229672,-0.1950238804034689,Iris-setosa,local surrogate coefficient (standardised feature),Instance_1
+0.030865386394457666,-0.03944343442553359,0.24618015107514107,0.2647693252135941,Iris-virginica,local surrogate coefficient (standardised feature),Instance_2
+0.05455895338661466,-0.028083079402546972,-0.10215995272329523,-0.11654593093132638,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_3
+0.015852114860351606,0.0007208089946641894,-0.09264248808217024,-0.10861551273965325,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_4
+-0.09090374496399939,0.13328022019239227,-0.1968846203595454,-0.18785185043376476,Iris-setosa,local surrogate coefficient (standardised feature),Instance_5
+0.06994500617445339,-0.06515820110740428,-0.029470831953681262,-0.02024535482131664,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_6
+0.041658370800051116,-0.05077248340546754,0.2363756183411956,0.2613657397452479,Iris-virginica,local surrogate coefficient (standardised feature),Instance_7
+0.0014980224619102675,-0.0005782006791004097,-0.1400279875431026,-0.13846920947782176,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_8
+0.06423873636664712,-0.04958260299024606,-0.03280617442365818,-0.05501695489365271,Iris-versicolor,local surrogate coefficient (standardised feature),Instance_9
+0.03129801503462848,-0.0569801181083645,0.2008215257293115,0.24014114474513049,Iris-virginica,local surrogate coefficient (standardised feature),Instance_10
+-0.11443605219341357,0.14393216430896,-0.21635692341067622,-0.2096862548600381,Iris-setosa,local surrogate coefficient (standardised feature),Instance_11

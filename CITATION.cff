@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying ConvXAI-GEN paper when using this software."
+title: "ConvXAI-GEN: A Modular LLM-Mediated XAI System with Faithfulness Constraints"
+type: software
+version: 0.2.0
+license: MIT
+authors:
+  - family-names: Mezzanzanica
+    given-names: Chiara
+  - family-names: Nobani
+    given-names: Navid
+    orcid: "https://orcid.org/0000-0001-9964-097X"

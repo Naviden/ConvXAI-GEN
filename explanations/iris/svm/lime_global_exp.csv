@@ -1,0 +1,2 @@
+SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,output_scale
+0.057820794669965314,0.05853890534584899,0.14805296413580513,0.15809325592955023,mean absolute lime scores over 12 test instances and their predicted classes

@@ -1,0 +1,2 @@
+SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,output_scale
+0.035965277777777804,0.013381944444444452,0.3184166666666666,0.26921527777777776,mean absolute shap scores over 12 test instances and their predicted classes
